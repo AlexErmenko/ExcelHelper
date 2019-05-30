@@ -1,0 +1,38 @@
+C:\Users\varav\Desktop\ExcelHelper\VideoApplication\VideoApplication\bin\Debug\ExcelApplication.exe.config
+C:\Users\varav\Desktop\ExcelHelper\VideoApplication\VideoApplication\bin\Debug\ExcelApplication.xml
+C:\Users\varav\Desktop\ExcelHelper\VideoApplication\VideoApplication\bin\Debug\ExcelApplication.exe
+C:\Users\varav\Desktop\ExcelHelper\VideoApplication\VideoApplication\bin\Debug\ExcelApplication.pdb
+C:\Users\varav\Desktop\ExcelHelper\VideoApplication\VideoApplication\bin\Debug\ExcelApplication.exe.CodeAnalysisLog.xml
+C:\Users\varav\Desktop\ExcelHelper\VideoApplication\VideoApplication\bin\Debug\ExcelApplication.exe.lastcodeanalysissucceeded
+C:\Users\varav\Desktop\ExcelHelper\VideoApplication\VideoApplication\bin\Debug\ExcelLibrary.dll
+C:\Users\varav\Desktop\ExcelHelper\VideoApplication\VideoApplication\bin\Debug\ExcelLibrary.pdb
+C:\Users\varav\Desktop\ExcelHelper\VideoApplication\VideoApplication\bin\Debug\ExcelLibrary.xml
+C:\Users\varav\Desktop\ExcelHelper\VideoApplication\VideoApplication\obj\Debug\ExcelApplication.csprojAssemblyReference.cache
+C:\Users\varav\Desktop\ExcelHelper\VideoApplication\VideoApplication\obj\Debug\ExcelApplication.csproj.ResolveComReference.cache
+C:\Users\varav\Desktop\ExcelHelper\VideoApplication\VideoApplication\obj\Debug\ExcelApplication.Main.resources
+C:\Users\varav\Desktop\ExcelHelper\VideoApplication\VideoApplication\obj\Debug\ExcelApplication.Properties.Resources.resources
+C:\Users\varav\Desktop\ExcelHelper\VideoApplication\VideoApplication\obj\Debug\ExcelApplication.Start.resources
+C:\Users\varav\Desktop\ExcelHelper\VideoApplication\VideoApplication\obj\Debug\ExcelApplication.csproj.GenerateResource.cache
+C:\Users\varav\Desktop\ExcelHelper\VideoApplication\VideoApplication\obj\Debug\ExcelApplication.csproj.CoreCompileInputs.cache
+C:\Users\varav\Desktop\ExcelHelper\VideoApplication\VideoApplication\obj\Debug\ExcelApplication.csproj.CopyComplete
+C:\Users\varav\Desktop\ExcelHelper\VideoApplication\VideoApplication\obj\Debug\ExcelApplication.exe
+C:\Users\varav\Desktop\ExcelHelper\VideoApplication\VideoApplication\obj\Debug\ExcelApplication.pdb
+C:\Users\Admin\Desktop\Финальные варианты\ExcelHelper\VideoApplication\VideoApplication\bin\Debug\ExcelApplication.exe.config
+C:\Users\Admin\Desktop\Финальные варианты\ExcelHelper\VideoApplication\VideoApplication\bin\Debug\ExcelApplication.xml
+C:\Users\Admin\Desktop\Финальные варианты\ExcelHelper\VideoApplication\VideoApplication\bin\Debug\ExcelApplication.exe
+C:\Users\Admin\Desktop\Финальные варианты\ExcelHelper\VideoApplication\VideoApplication\bin\Debug\ExcelApplication.pdb
+C:\Users\Admin\Desktop\Финальные варианты\ExcelHelper\VideoApplication\VideoApplication\bin\Debug\ExcelApplication.exe.CodeAnalysisLog.xml
+C:\Users\Admin\Desktop\Финальные варианты\ExcelHelper\VideoApplication\VideoApplication\bin\Debug\ExcelApplication.exe.lastcodeanalysissucceeded
+C:\Users\Admin\Desktop\Финальные варианты\ExcelHelper\VideoApplication\VideoApplication\bin\Debug\ExcelLibrary.dll
+C:\Users\Admin\Desktop\Финальные варианты\ExcelHelper\VideoApplication\VideoApplication\bin\Debug\ExcelLibrary.pdb
+C:\Users\Admin\Desktop\Финальные варианты\ExcelHelper\VideoApplication\VideoApplication\bin\Debug\ExcelLibrary.xml
+C:\Users\Admin\Desktop\Финальные варианты\ExcelHelper\VideoApplication\VideoApplication\obj\Debug\ExcelApplication.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Финальные варианты\ExcelHelper\VideoApplication\VideoApplication\obj\Debug\ExcelApplication.csproj.ResolveComReference.cache
+C:\Users\Admin\Desktop\Финальные варианты\ExcelHelper\VideoApplication\VideoApplication\obj\Debug\ExcelApplication.Main.resources
+C:\Users\Admin\Desktop\Финальные варианты\ExcelHelper\VideoApplication\VideoApplication\obj\Debug\ExcelApplication.Properties.Resources.resources
+C:\Users\Admin\Desktop\Финальные варианты\ExcelHelper\VideoApplication\VideoApplication\obj\Debug\ExcelApplication.Start.resources
+C:\Users\Admin\Desktop\Финальные варианты\ExcelHelper\VideoApplication\VideoApplication\obj\Debug\ExcelApplication.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Финальные варианты\ExcelHelper\VideoApplication\VideoApplication\obj\Debug\ExcelApplication.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Финальные варианты\ExcelHelper\VideoApplication\VideoApplication\obj\Debug\ExcelApplication.csproj.CopyComplete
+C:\Users\Admin\Desktop\Финальные варианты\ExcelHelper\VideoApplication\VideoApplication\obj\Debug\ExcelApplication.exe
+C:\Users\Admin\Desktop\Финальные варианты\ExcelHelper\VideoApplication\VideoApplication\obj\Debug\ExcelApplication.pdb

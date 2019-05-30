@@ -1,0 +1,120 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ExcelLibrary</name>
+    </assembly>
+    <members>
+        <member name="T:ExcelLibrary.Table">
+            <summary>
+              Класс для работы с таблицами Excel
+            </summary>
+            // TODO: Добавлять, редактировать, форматировать, удалять данные
+        </member>
+        <member name="M:ExcelLibrary.Table.SaveToExcel(System.Windows.Forms.DataGridView,System.String)">
+            <summary>
+              Метод расширения для DataGridView
+            </summary>
+            <param name="data">Таблица для сохранения</param>
+        </member>
+        <member name="T:ExcelLibrary.UML.DiagramHelper">
+            <summary>
+              Клас для створення діаграм
+            </summary>
+        </member>
+        <member name="M:ExcelLibrary.UML.DiagramHelper.#ctor(Microsoft.Office.Interop.Excel.Range)">
+            <summary>
+              Конструктор для ініціалізації властивості
+            </summary>
+            <param name="range"></param>
+        </member>
+        <member name="M:ExcelLibrary.UML.DiagramHelper.GenerateDiagram">
+            <summary>
+              Метод для створення діаграми
+            </summary>
+        </member>
+        <member name="T:ExcelLibrary.UML.FormulaHelper">
+            <summary>
+              Клас для роботи з формулами
+            </summary>
+        </member>
+        <member name="M:ExcelLibrary.UML.FormulaHelper.#ctor(Microsoft.Office.Interop.Excel.Range)">
+            <summary>
+              Конструктор для ініціалізації властивості
+            </summary>
+            <param name="range"></param>
+        </member>
+        <member name="P:ExcelLibrary.UML.FormulaHelper.Range">
+            <summary>
+              Властивість для збереження посилання на діапазон з формулою
+            </summary>
+        </member>
+        <member name="M:ExcelLibrary.UML.FormulaHelper.ValidateFormula(System.String)">
+            <summary>
+              Перевірка корректності формули
+            </summary>
+            <param name="formula"></param>
+        </member>
+        <member name="T:ExcelLibrary.UML.WorksheetManager">
+            <summary>
+              Клас для роботи з листами
+            </summary>
+        </member>
+        <member name="M:ExcelLibrary.UML.WorksheetManager.#ctor(Microsoft.Office.Interop.Excel.Worksheet)">
+            <summary>
+              Консструктор
+            </summary>
+            <param name="worksheet"></param>
+        </member>
+        <member name="P:ExcelLibrary.UML.WorksheetManager.Worksheet">
+            <summary>
+              Ініціалізація екземляра об'єкта листа
+            </summary>
+        </member>
+        <member name="M:ExcelLibrary.UML.WorksheetManager.Last">
+            <summary>
+              Метод для переходу до останього листа
+            </summary>
+        </member>
+        <member name="M:ExcelLibrary.UML.WorksheetManager.First">
+            <summary>
+              Метод для переходу до першого листа
+            </summary>
+        </member>
+        <member name="M:ExcelLibrary.UML.WorksheetManager.Prev">
+            <summary>
+              Метод для переходу до попереднього листа
+            </summary>
+        </member>
+        <member name="M:ExcelLibrary.UML.WorksheetManager.Next">
+            <summary>
+              Метод для переходу до наступного листа
+            </summary>
+        </member>
+        <member name="T:ExcelLibrary.UML.TableWorker">
+            <summary>
+              Клас для роботи з таблицями в Excel
+            </summary>
+        </member>
+        <member name="M:ExcelLibrary.UML.TableWorker.#ctor(System.Windows.Forms.DataGridView)">
+            <summary>
+              Конструктор який ініціалізує властивість
+            </summary>
+            <param name="view"></param>
+        </member>
+        <member name="P:ExcelLibrary.UML.TableWorker.View">
+            <summary>
+              Властивість для здереження посилання на DataGridView
+            </summary>
+        </member>
+        <member name="M:ExcelLibrary.UML.TableWorker.LoadFromExcel">
+            <summary>
+              Метод для завантаження даних з листа Excel
+            </summary>
+        </member>
+        <member name="M:ExcelLibrary.UML.TableWorker.SaveToExcel">
+            <summary>
+              Метод для збереження даних з DataGridView до Excel
+            </summary>
+        </member>
+    </members>
+</doc>

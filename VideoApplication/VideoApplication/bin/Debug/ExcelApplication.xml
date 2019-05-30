@@ -1,0 +1,192 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ExcelApplication</name>
+    </assembly>
+    <members>
+        <member name="M:ExcelApplication.Main.AppendColl_Click(System.Object,System.EventArgs)">
+            <summary>
+              Добавление колонки в таблицу
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:ExcelApplication.Main.GetCurrentTab(System.Windows.Forms.TabControl)">
+            <summary>
+              Метод для отримання поточного листа
+            </summary>
+            <param name="tabControl"></param>
+            <returns>Возвращает текущую вкладку</returns>
+        </member>
+        <member name="M:ExcelApplication.Main.ColumnIndexToColumnLetter(System.Int32)">
+            <summary>
+              Метод для отримання літери по індексу
+            </summary>
+            <param name="colIndex">Индекс колонки</param>
+            <returns>Символ из алфавита</returns>
+        </member>
+        <member name="M:ExcelApplication.Main.ToExcel_Click(System.Object,System.EventArgs)">
+            <summary>
+              Сохранение в Excel таблицы
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:ExcelApplication.Main.GenerateNewPage(System.Windows.Forms.TabControl)">
+            <summary>
+              Создание новой страницы по шаблону
+            </summary>
+            <param name="tabControl"></param>
+        </member>
+        <member name="M:ExcelApplication.Main.Button1_Click(System.Object,System.EventArgs)">
+            <summary>
+              Метод для створення діагрм
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:ExcelApplication.Main.WorksheetSelectedIndexChanged(System.Object,System.EventArgs)">
+            <summary>
+              Добавление новой страницы
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:ExcelApplication.Main.LoadTable_Click(System.Object,System.EventArgs)">
+            <summary>
+              Загрузка таблицы из Excel документа
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:ExcelApplication.Main.SelfCreateTable_CellContentClick(System.Object,System.Windows.Forms.DataGridViewCellEventArgs)">
+            <summary>
+              Обозначение диапазона для формулы в таблице
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:ExcelApplication.Main.ModeWriteRadio_CheckedChanged(System.Object,System.EventArgs)">
+            <summary>
+              Выбор режима самостоятельного заполненния таблицы
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:ExcelApplication.Main.ModeLoadRadio_CheckedChanged(System.Object,System.EventArgs)">
+            <summary>
+              Выбор режима загрузки внешних данных в таблицу
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:ExcelApplication.Main.GetButtonSaveToExcel(System.Windows.Forms.TabPage)">
+            <summary>
+              Метод для получения кнопки "сохранить" на текущей странице
+            </summary>
+            <param name="page">Текущая выбраная вкладка</param>
+            <returns></returns>
+            <exception cref="T:System.Exception"></exception>
+        </member>
+        <member name="M:ExcelApplication.Main.GetButtonAppendCollumn(System.Windows.Forms.TabPage)">
+            <summary>
+              Метод
+            </summary>
+            <param name="page">Текущая выбраная вкладка</param>
+            <returns>Кнопка для добавления столбцов</returns>
+            <exception cref="T:System.Exception"></exception>
+        </member>
+        <member name="M:ExcelApplication.Main.GetButtonLoadTable(System.Windows.Forms.TabPage)">
+            <summary>
+              Метод
+            </summary>
+            <param name="page">Текущая выбраная вкладка</param>
+            <returns>Кнопка для загрузки данных из внешнего источника</returns>
+            <exception cref="T:System.Exception"></exception>
+        </member>
+        <member name="M:ExcelApplication.Main.GetDataGridViewByPage(System.Windows.Forms.TabPage)">
+            <summary>
+              Метод для отримання таблиці з поточного листа
+            </summary>
+            <param name="page">Текущаяя страница</param>
+            <returns>Таблицу на странице</returns>
+        </member>
+        <member name="F:ExcelApplication.Main.components">
+            <summary>
+              Required designer variable.
+            </summary>
+        </member>
+        <member name="M:ExcelApplication.Main.Dispose(System.Boolean)">
+            <summary>
+              Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:ExcelApplication.Main.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:ExcelApplication.Program.Main">
+            <summary>
+              Главная точка входа для приложения.
+            </summary>
+        </member>
+        <member name="T:ExcelApplication.Properties.Resources">
+            <summary>
+              Класс ресурса со строгой типизацией для поиска локализованных строк и т.д.
+            </summary>
+        </member>
+        <member name="P:ExcelApplication.Properties.Resources.ResourceManager">
+            <summary>
+              Возвращает кэшированный экземпляр ResourceManager, использованный этим классом.
+            </summary>
+        </member>
+        <member name="P:ExcelApplication.Properties.Resources.Culture">
+            <summary>
+              Перезаписывает свойство CurrentUICulture текущего потока для всех
+              обращений к ресурсу с помощью этого класса ресурса со строгой типизацией.
+            </summary>
+        </member>
+        <member name="P:ExcelApplication.Properties.Resources.DataEmpty">
+            <summary>
+              Ищет локализованную строку, похожую на Відсутні данні для збереження!.
+            </summary>
+        </member>
+        <member name="P:ExcelApplication.Properties.Resources.ErrorLoad">
+            <summary>
+              Ищет локализованную строку, похожую на Під час завантаження поточні дані буде втрачено!.
+            </summary>
+        </member>
+        <member name="P:ExcelApplication.Properties.Resources.ExcelFilter">
+            <summary>
+              Ищет локализованную строку, похожую на Excel Document 97(*.xls)|*.xls|Excel Document 2007(*.xlsx )|*.xlsx.
+            </summary>
+        </member>
+        <member name="P:ExcelApplication.Properties.Resources.ProjectTitle">
+             <summary>
+               Ищет локализованную строку, похожую на 
+            Демонстраційна программа
+            .
+             </summary>
+        </member>
+        <member name="F:ExcelApplication.Start.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:ExcelApplication.Start.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:ExcelApplication.Start.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+    </members>
+</doc>
