@@ -10,21 +10,21 @@
        <Types>
         <Type Name="Ext" Kind="Class" Accessibility="Public" ExternallyVisible="True">
          <Messages>
-          <Message TypeName="ImplementIDisposableCorrectly" Category="Microsoft.Design" CheckId="CA1063" Status="Active" Created="2019-05-30 03:58:20Z" FixCategory="Breaking">
+          <Message TypeName="ImplementIDisposableCorrectly" Category="Microsoft.Design" CheckId="CA1063" Status="Active" Created="2019-05-30 04:59:01Z" FixCategory="Breaking">
            <Issue Name="ProvideDisposeBool" Certainty="95" Level="Error">Предоставьте перегружаемую реализацию Dispose(bool) для 'Ext' или отметьте тип как запечатанный. При вызове Dispose(false) должны очищаться только машинные ресурсы. При вызове Dispose(true) должны очищаться и управляемые, и машинные ресурсы.</Issue>
           </Message>
          </Messages>
          <Members>
           <Member Name="#Dispose()" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
            <Messages>
-            <Message TypeName="ImplementIDisposableCorrectly" Category="Microsoft.Design" CheckId="CA1063" Status="Active" Created="2019-05-30 03:58:20Z" FixCategory="Breaking">
+            <Message TypeName="ImplementIDisposableCorrectly" Category="Microsoft.Design" CheckId="CA1063" Status="Active" Created="2019-05-30 04:59:01Z" FixCategory="Breaking">
              <Issue Name="DisposeImplementation" Certainty="95" Level="Error" Path="C:\Users\Admin\Desktop\Финальные варианты\ExcelHelper\VideoApplication\VideoApplication" File="Ext.cs" Line="33">Измените 'Ext.Dispose()', чтобы он вызывал Dispose(true), затем вызывал GC.SuppressFinalize для текущего экземпляра объекта ("this" или "Me" в Visual Basic), а затем возвращал результат.</Issue>
             </Message>
            </Messages>
           </Member>
           <Member Name="#Finalize()" Kind="Method" Static="False" Accessibility="Family" ExternallyVisible="True">
            <Messages>
-            <Message TypeName="ImplementIDisposableCorrectly" Category="Microsoft.Design" CheckId="CA1063" Status="Active" Created="2019-05-30 03:58:20Z" FixCategory="Breaking">
+            <Message TypeName="ImplementIDisposableCorrectly" Category="Microsoft.Design" CheckId="CA1063" Status="Active" Created="2019-05-30 04:59:01Z" FixCategory="Breaking">
              <Issue Name="FinalizeImplementation" Certainty="95" Level="Error" Path="C:\Users\Admin\Desktop\Финальные варианты\ExcelHelper\VideoApplication\VideoApplication" File="Ext.cs" Line="47">Измените 'Ext.~Ext()', чтобы он вызывал Dispose(false) и затем возвращал результат.</Issue>
             </Message>
            </Messages>
